@@ -14,6 +14,7 @@ import java.util.Scanner;
 /**
  *
  * @author sebas
+ * clase encargada de instanciar elk heap acorde a lo ingresado por el usuario asi como las operaciones con el mismo heap
  */
 public class Controlador {
     private VectorHeap v1;

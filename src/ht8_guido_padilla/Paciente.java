@@ -8,6 +8,7 @@ package ht8_guido_padilla;
 /**
  *
  * @author sebas
+ * clase que contiene los datos del paciente
  */
 public class Paciente implements Comparable<Paciente>{
     private String name;

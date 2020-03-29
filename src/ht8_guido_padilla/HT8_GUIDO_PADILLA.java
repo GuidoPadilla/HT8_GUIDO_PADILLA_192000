@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class HT8_GUIDO_PADILLA {
 
     /**
-     * @param args the command line arguments
+     * @param args the command line arguments Debe de ingresarse al inicio 1 para utilizar el heap que se realizo mediante el libro y 2 para el heap propio de java.
      */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
